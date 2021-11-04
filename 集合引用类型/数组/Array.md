@@ -28,12 +28,12 @@ array.copyWithin(target, start, end)
 |end|可选。停止复制的索引位置 (默认为 array.length)。如果为负值，表示倒数|
 
 ## 栈方法
-push()//push数组长度
-pop()//返回被pop的
+- push()//push数组长度
+- pop()//返回被pop的
 ## 队列方法
 队列方法都是对数组头的操作
-shift（）//移除值
-unshift（）//添加值
+- shift（）//移除值
+- unshift（）//添加值
 ## 排序
 ## 操作
 ## 搜索
