@@ -24,8 +24,8 @@ array.copyWithin(target, start, end)
 |参数|描述|
 |:---:|:---:|
 |target|必需。复制到指定目标索引位置|
-|start|可选。元素复制的起始位置|
-|end|可选。停止复制的索引位置 (默认为 array.length)。如果为负值，表示倒数|
+|start|可选。被复制元素的起始位置|
+|end|可选。被复制元素的索引位置 (默认为 array.length)。如果为负值，表示倒数|
 
 ## 栈方法
 - push()//push数组长度
